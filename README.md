@@ -2,30 +2,12 @@
 
 **Goal-oriented final-year Computer Science Engineering student with a specialization in AI, ML, and Robotics.** I bring a blend of expertise in Python, Java, and Deep Learning, combined with a strong team spirit, problem-solving abilities, and leadership skills. My proven track record in delivering high-quality project developments makes me a valuable asset to any tech-focused team.
 
-## 🔗 Contact Information
-- **Email:** [priyanka.garg9736@email.com](mailto:priyanka.garg9736@email.com)
-- **GitHub:** [Priyanka-Garg85](https://github.com/Priyanka-Garg85)
-- **LinkedIn:** [Priyanka Garg](https://www.linkedin.com/in/priyanka-garg-351447227/)
-- **Location:** Jewar, UP, India
-
-## 🎓 Education
-- **B. Tech in Computer Science Engineering**  
-  Specialization: AI & Robotics  
-  **Institution:** DIT University  
-  **Batch:** 2020-2024  
-  **CGPA:** 9.03/10.0
-
-- **Intermediate:**  
-  **Percentage:** 87.6%
-
-- **Matriculation:**  
-  **CGPA:** 9.8/10.0
-
-## 🏆 Certifications & Awards
-- **AIR 5th Rank** in Solar Urja Vehicle Challenge, 2022  
-  *National Level Solar Electric Vehicle Competition*
-- **Achiever of the Year Award, 2022**  
-  *DIT UNIVERSITY - For Academic Excellence*
+## 💻 Skills
+- **Programming Languages:** Python, C, Java, R, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, Django
+- **Technologies:** Machine Learning, Deep Learning, Docker, Flask, GitHub
+- **Concepts:** OOPS, Data Structure Algorithms
+- **Databases:** MySQL, SQLite
 
 ## 💼 Work Experience
 
@@ -65,9 +47,8 @@
   *Conference Name:* 5th International Conference on Information Systems and Management Science 2022  
   *Publisher:* Springer
 
-## 💻 Skills
-- **Programming Languages:** Python, C, Java, R, JavaScript
-- **Web Development:** HTML, CSS, JavaScript, Django
-- **Technologies:** Machine Learning, Deep Learning, Docker, Flask, GitHub
-- **Concepts:** OOPS, Data Structure Algorithms
-- **Databases:** MySQL, SQLite
+## 🏆 Certifications & Awards
+- **AIR 5th Rank** in Solar Urja Vehicle Challenge, 2022  
+  *National Level Solar Electric Vehicle Competition*
+- **Achiever of the Year Award, 2022**  
+  *DIT UNIVERSITY - For Academic Excellence*
