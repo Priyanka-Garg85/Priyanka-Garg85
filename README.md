@@ -5,7 +5,6 @@
 - **Technologies:** Machine Learning, Deep Learning, Docker, Flask, GitHub
 - **Concepts:** OOPS, Data Structure Algorithms
 - **Databases:** MySQL, SQLite
----
 
 ## 📚 Projects
 
