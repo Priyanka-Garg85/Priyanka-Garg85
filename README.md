@@ -8,7 +8,7 @@
 
 ## 📚 Projects
 
-### Sketch Assistant System
+### 1. Sketch Assistant System
 
 **Institute:** DIT university
 **Development Period:** Jan - March 2023
@@ -20,7 +20,7 @@
 - **Tech Stack:** OpenCV, Python, HTML, CSS, Django.
 
 
-### 1. Rock Segmentation
+### 2. Rock Segmentation
 
 **Institute:** IIT Dhanbad  
 **Development Period:** June - July 2023
@@ -31,7 +31,7 @@
 - Engineered a solution to detect edges, separate each rock, and classify them into categories: large, medium, and small rocks.
 - Tech stack: OpenCV, TensorFlow, Image Segmentation, Python.
   
-### CRUD application task manager
+### 3. CRUD application task manager
 
 **Institute:** IIT Dhanbad  
 **Development Period:** June - July 2023
@@ -42,7 +42,7 @@
 - Developed features to manage and prioritize tasks effectively, streamlining the workflow for better productivity.
 - **Tech Stack:** flask, OOPS, sqlite 3
 
-### Open-Source Retro Gaming Platform
+### 4. Open-Source Retro Gaming Platform
 
 **Institute:** DIT university
 **Development Period:** Jan - March 2022
