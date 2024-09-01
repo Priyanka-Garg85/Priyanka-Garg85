@@ -1,6 +1,3 @@
-# Priyanka Garg
-
-**Goal-oriented final-year Computer Science Engineering student with a specialization in AI, ML, and Robotics.** I bring a blend of expertise in Python, Java, and Deep Learning, combined with a strong team spirit, problem-solving abilities, and leadership skills. My proven track record in delivering high-quality project developments makes me a valuable asset to any tech-focused team.
 
 ## 💻 Skills
 - **Programming Languages:** Python, C, Java, R, JavaScript
@@ -8,20 +5,6 @@
 - **Technologies:** Machine Learning, Deep Learning, Docker, Flask, GitHub
 - **Concepts:** OOPS, Data Structure Algorithms
 - **Databases:** MySQL, SQLite
-
-## 💼 Work Experience
-
-### AI Research Intern  
-**Indian Institute of Technology Dhanbad | Remote**  
-*June - August 2023*
-- Developed a Rock Segmentation model using Computer Vision techniques such as object detection, edge detection with DexiNed, and semantic segmentation, accurately predicting rock sizes (small, medium, large) in mining dumps.
-- **Tech Stack:** OpenCV, Python, Deep Learning
-- Link - https://github.com/Priyanka-Garg85/Rock-Movement-Prediction
-
-### Developer Intern  
-**Salesforce | Remote**  
-*May - July 2023*
-- Enhanced proficiency in the Lightning Component Framework by working on real-world scenarios, focusing on Trailhead Community with Apex.
 
 ## 📚 Projects
 
