@@ -13,6 +13,12 @@
 - **Tech Stack:** OpenCV, Python, HTML, CSS, JavaScript, Django
 - Link - https://github.com/Priyanka-Garg85/Sketching-Assistant-System-using-Poisson-Blending
 
+### CRUD application task manager
+- developed a GUI interface for CRUD application purpose for a comapny to mange database using sqlite 3
+- 
+- **Tech Stack:** flask, OOPS, sqlite 3
+- Link - [CRUD Task Manager ](https://github.com/Priyanka-Garg85/Task_Manager)
+
 ### Open-Source Retro Gaming Platform
 - Designed a gaming platform that includes Street Fighter and Dino games using Java OOPS for efficient implementations and modular game development.
 - **Tech Stack:** Java, OOPS, DSA
