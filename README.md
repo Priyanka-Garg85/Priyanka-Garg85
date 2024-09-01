@@ -32,9 +32,8 @@
 - Tech stack: OpenCV, TensorFlow, Image Segmentation, Python.
   
 ### 3. CRUD application task manager
-
-**Institute:** IIT Dhanbad  
-**Development Period:** June - July 2023
+ 
+**Development Period:** June - July 2024
 
 **link** - [CRUD Task Manager ](https://github.com/Priyanka-Garg85/Task_Manager)
 
