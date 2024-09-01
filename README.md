@@ -9,20 +9,48 @@
 ## 📚 Projects
 
 ### Sketch Assistant System
-- A web application that generates new and custom faces/sketches using Poisson Blending. It involves concepts of feature extraction, image manipulation, array manipulation, clustering, and deep learning.
-- **Tech Stack:** OpenCV, Python, HTML, CSS, JavaScript, Django
-- Link - https://github.com/Priyanka-Garg85/Sketching-Assistant-System-using-Poisson-Blending
 
+**Institute:** DIT university
+**Development Period:** Jan - March 2023
+
+**link** - [Sketch Assistant ](https://github.com/Priyanka-Garg85/Sketching-Assistant-System-using-Poisson-Blending)
+
+- Developed a web application that generates new and custom faces/sketches using Poisson Blending.
+- It incorporating feature extraction, image manipulation, and clustering.
+- **Tech Stack:** OpenCV, Python, HTML, CSS, Django.
+
+
+### 1. Rock Segmentation
+
+**Institute:** IIT Dhanbad  
+**Development Period:** June - July 2023
+
+**link** - [Rock_Segmentation](https://github.com/RajKrishna2123/Rock_Segmentation) 
+
+- Developed a rock segmentation and classification model for early landslide detection and warning systems.
+- Engineered a solution to detect edges, separate each rock, and classify them into categories: large, medium, and small rocks.
+- Tech stack: OpenCV, TensorFlow, Image Segmentation, Python.
+  
 ### CRUD application task manager
-- developed a GUI interface for CRUD application purpose for a comapny to mange database using sqlite 3
-- 
+
+**Institute:** IIT Dhanbad  
+**Development Period:** June - July 2023
+
+**link** - [CRUD Task Manager ](https://github.com/Priyanka-Garg85/Task_Manager)
+
+- Developed a GUI interface for CRUD application purpose for a comapny to mange database using sqlite 3
+- Developed features to manage and prioritize tasks effectively, streamlining the workflow for better productivity.
 - **Tech Stack:** flask, OOPS, sqlite 3
-- Link - [CRUD Task Manager ](https://github.com/Priyanka-Garg85/Task_Manager)
 
 ### Open-Source Retro Gaming Platform
+
+**Institute:** DIT university
+**Development Period:** Jan - March 2022
+
+**link** - [retro game](https://github.com/Priyanka-Garg85/Zombie-Arcade)
+
 - Designed a gaming platform that includes Street Fighter and Dino games using Java OOPS for efficient implementations and modular game development.
 - **Tech Stack:** Java, OOPS, DSA
-- Link - https://github.com/Priyanka-Garg85/Zombie-Arcade
 
 ## 📝 Achievements
 
