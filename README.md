@@ -10,8 +10,8 @@
 
 ### 1. Sketch Assistant System
 
-**Institute:** DIT university \n
-**Development Period:** Jan - March 2023
+**Institute:** DIT University  
+**Development Period:** Jan - March 2024
 
 **link** - [Sketch Assistant ](https://github.com/Priyanka-Garg85/Sketching-Assistant-System-using-Poisson-Blending)
 
