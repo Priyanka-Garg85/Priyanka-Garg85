@@ -16,7 +16,7 @@
 **link** - [Sketch Assistant ](https://github.com/Priyanka-Garg85/Sketching-Assistant-System-using-Poisson-Blending)
 
 - Developed a web application that generates new and custom faces/sketches using Poisson Blending.
-- It incorporating feature extraction, image manipulation, and clustering.
+- It incorporates feature extraction, image manipulation, and clustering.
 - **Tech Stack:** OpenCV, Python, HTML, CSS, Django.
 
 
