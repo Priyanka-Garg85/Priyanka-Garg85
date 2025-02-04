@@ -31,15 +31,15 @@
 - Engineered a solution to detect edges, separate each rock, and classify them into categories: large, medium, and small rocks.
 - Tech stack: OpenCV, TensorFlow, Image Segmentation, Python.
   
-### 3. CRUD application task manager
+### 3. Blog Website :"Insights, Ideas, and Inspiration – Your Gateway to Engaging Stories"
  
 **Development Period:** June - July 2024
 
-**link** - [CRUD Task Manager ](https://github.com/Priyanka-Garg85/Task_Manager)
+**link** - [Blog Website](https://github.com/Priyanka-Garg85/BLOG_website)
 
-- Developed a GUI interface for CRUD application purpose for a comapny to mange database using sqlite 3
-- Developed features to manage and prioritize tasks effectively, streamlining the workflow for better productivity.
-- **Tech Stack:** flask, OOPS, sqlite 3
+- Designed and developed a dynamic blog website with user authentication, content management, and SEO optimization.
+- Implemented a responsive web application allowing users to create, edit, and categorize blog posts efficiently.
+- **Tech Stack:** Flask, SQLite3, HTML, CSS, JavaScript, OOPS
 
 ### 4. Open-Source Retro Gaming Platform
 
