@@ -3,7 +3,7 @@
 - **Programming Languages:** Python, C, Java, R, JavaScript
 - **Web Development:** HTML, CSS, JavaScript, Django
 - **Technologies:** Machine Learning, Deep Learning, Docker, Flask, GitHub
-- **Concepts:** OOPS, Data Structure Algorithms
+- **Concepts:** OOPS, Data Structure Algorithms, Computer Networks
 - **Databases:** MySQL, SQLite
 
 ## 📚 Projects
